@@ -1,0 +1,6 @@
+.title {
+  color: skyblue;
+}
+.btn {
+  border-radius: 15px;
+}
